@@ -3,9 +3,9 @@
 ## Competition
 https://www.kaggle.com/competitions/2023ActPaHatExpert
 
-This hackathon was hosted by The Canadian Institute of Actuaries (CIA), the CAS Institute (iCAS), and the Society of Actuaries (SOA) and the it took place from March 23-16 in 2023.
+This hackathon was hosted by The Canadian Institute of Actuaries (CIA), the CAS Institute (iCAS), and the Society of Actuaries (SOA) and it took place from March 24-26 in 2023.
 
-The problem set is NLP task and the datasets contain (mostly) recent tweets from high profile Twitter accounts in the fields of blockchain, cryptocurrency, and Web3. Participants were tasked to make predictions on the number of retweets and likes for each tweet.
+The problem set is a NLP task and the datasets contain (mostly) recent tweets from high profile Twitter accounts in the fields of blockchain, cryptocurrency, and Web3. Participants were tasked to make predictions on the number of retweets and likes for each tweet.
 
 
 ## Overview of 2nd place solution
